@@ -3,7 +3,7 @@ Glide 功能demo
 =======
 > 功能
 >> 过渡动画
-   两张方式来实现Glide的过渡动画：.animate();
+       两张方式来实现Glide的过渡动画：.animate();
   加载系统动画显示，如从左到右过渡：
   ```java
   Glide.with(AnimateActivity.this)
@@ -36,7 +36,7 @@ Glide 功能demo
     };
   ```
   或者可以直接使用默认的.crossFade()
-附：如果需要更多的动画，可以参考：![glide-transformations](https://github.com/wasabeef/glide-transformations "Glide转换集")
+附：如果需要更多的动画，可以参考：[glide-transformations](https://github.com/wasabeef/glide-transformations "Glide转换集")
   
   
   
