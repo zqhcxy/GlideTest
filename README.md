@@ -36,7 +36,8 @@ Glide 功能demo
     };
   ```
   或者可以直接使用默认的.crossFade()
-附：如果需要更多的动画，可以参考：[glide-transformations](https://github.com/wasabeef/glide-transformations "Glide转换集")
+附：如果需要更多的动画，可以参考：
+              [glide-transformations](https://github.com/wasabeef/glide-transformations)
   
   
   
